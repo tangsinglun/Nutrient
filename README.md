@@ -24,6 +24,9 @@ macros installed or enabled in the excel. This nutrient calculator is developed 
     4. Click on Macro Security on the left pane.
     5. For the Security Level tap, select "Medium" or "Low" for the option. 
 
+* Enable Macros on Microsoft excel
+    1. when open the file, you will be prompt and asked "This workbook contains macros. Do you want to disable macros before opening the file?". please select "Enable Macros".
+
 ## Config-Ussage
 
 * For the app configuration. There are prdefined templates.
@@ -34,8 +37,8 @@ macros installed or enabled in the excel. This nutrient calculator is developed 
 
         ![Alt text](./conner.png?raw=true)
         
-    2. Menu Nutrient Record Template
-        -  Don't corrupte this template. If you want to use it, select the relevant worksheet. For instance if you are working on "January", select "January Meal Record". Then to copy the whole menu nutient record template, click on the conner, the whole page will be selected then click "clt + c". To paste it to "January Meal Record", select the upper left conner and then click "clt + v" to paste it. On the cell "M3", please rename the worksheet for the first item from "Ingredient Template" to "Breakfast demo", the name should be the same as your ingredient worksheet you just newly added.
+    2. Meal Record Template
+        -  Don't corrupte this template. If you want to use it, select the relevant worksheet. For instance if you are working on "January", select "January Meal Record". To copy the whole meal record template, click on the conner, the whole page will be selected then click "clt + c". To paste it to "January Meal Record", select the upper left conner and then click "clt + v" to paste it. On the cell "M3", please rename the worksheet for the first item from "Ingredient Template" to "Breakfast demo", the name should be exactly the same as your Breakfast demo worksheet you just newly added. When finish recording the daily meals for that day, don't forget to click the "complete" button, or else the data will be rewrited by the next day meal record.
     3. Nutrient Total Template Daily
         -  Don't corrupte this template. Copy the whole page (by click on the upper left conner and click "clt + c"). Add a new sheet and rename it for example 'January Total daily' and selct the upper left conner 'clt v' to paste it. Rename the worksheet to point to your 'January Meal Record'. Click get total button, then it will sum up the nutrients for the whole day. 
     4. Nutrient Total Template Weekly
@@ -49,7 +52,7 @@ macros installed or enabled in the excel. This nutrient calculator is developed 
 
 ## Potential-ussage
 
-* There are a lot of potential ussage for this nutrient app. For example, you can use for analysing, cause we have recorded all your daily meal nutrient data plus the ingredients meal. We can use it for analysing in terms of charts, and you can design a proposal (for patient). This is quite useful for the nutrientists or nutrient doctor. 
+* There are a lot of potential ussage for this nutrient app. For example, you can use for analysing, cause we have recorded all your daily meal nutrient data plus the ingredients meal. We can use it for analysing in terms of charts, and you can design an assesment proposal (for patient). This is quite useful for the nutrientists or nutrient doctor. 
 * For security and privacy issues, you can place the file on a personal usb, you can even set password at the excel level.
 * Receipy Exchanging - If you anyone has a secrete receipy. you just need to copy the whole worksheet from the ingredient menu for exchanging.  
 
