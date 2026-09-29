@@ -56,6 +56,10 @@ macros installed or enabled in the excel. This nutrient calculator is developed 
 * For security and privacy issues, you can place the file on a personal usb, you can even set password at the excel level.
 * Receipy Exchanging - If you anyone has a secrete receipy. you just need to copy the whole worksheet from the ingredient menu for exchanging.  
 
+## New year
+
+* For every year, for simplicity, please copy a new excel file and start a new one.
+
 ## References
 
 * Nutrient Resources
